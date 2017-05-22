@@ -4,6 +4,20 @@ Algorithm challenges that I take to try to improve my skill. My commitment is to
 
 Happy coding. :)
 
-[Sum All Numbers in a Range]
+[Sum All Numbers in a Range](./CodeChallenges.playground/Pages/Sum%20All%20Numbers%20in%20Ranges.xcplaygroundpage/Contents.swift)
 
-[First Factorial]
+[First Factorial](./CodeChallenges.playground/Pages/FirstFactorial.xcplaygroundpage/Contents.swift))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
