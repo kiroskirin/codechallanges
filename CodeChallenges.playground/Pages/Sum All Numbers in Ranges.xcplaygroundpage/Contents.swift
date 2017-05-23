@@ -22,10 +22,8 @@ import Foundation
  */
 
 func sumAll(arr: [Int]) -> Int {
-    guard let min = arr.min(), let max = arr.max() else {
-        return 0
-    }
-    return (min...max).reduce(0) { $0 + $1 }
+    guard let min = arr.min(), let max = arr.max() else { return 0 }
+    return (min...max).reduce( 0, + )
 }
 
 sumAll(arr: [1, 4]) // Should be 10

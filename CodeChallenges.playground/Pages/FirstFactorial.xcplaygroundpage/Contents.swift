@@ -20,7 +20,7 @@ import Foundation
  */
 
 func firstFactorial(_ num: Int) -> Int {
-    return (1...num).reduce(1) { $0 * $1 }
+    return (1...num).reduce( 1, * )
 }
 
 firstFactorial(4) // Should be 14
