@@ -8,8 +8,9 @@ Happy coding. :)
 
 [First Factorial](./CodeChallenges.playground/Pages/FirstFactorial.xcplaygroundpage/Contents.swift)
 
+[String Reversed Order](./CodeChallenges.playground/Pages/String%20Reversed%20Order.xcplaygroundpage/Contents.swift)
 
-
+[Letter Changes](./CodeChallenges.playground/Pages/Letter%20Changes.xcplaygroundpage/Contents.swift)
 
 
 
