@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<playground version='6.0' target-platform='ios'>
+<playground version='6.0' target-platform='ios' display-mode='raw'>
     <pages>
         <page name='Sum All Numbers in Ranges'/>
         <page name='FirstFactorial'/>
+        <page name='String Reversed Order'/>
+        <page name='Letter Changes'/>
     </pages>
 </playground>
