@@ -5,5 +5,6 @@
         <page name='FirstFactorial'/>
         <page name='String Reversed Order'/>
         <page name='Letter Changes'/>
+        <page name='Longest Word'/>
     </pages>
 </playground>

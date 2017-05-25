@@ -21,8 +21,8 @@ func firstReverse(_ str: String) -> String {
 }
 
 
-firstReverse("coderbyte") // Should be etybredoc
-firstReverse("I Love Code") // Should be edoC evoL I
+firstReverse("coderbyte") // Should be "etybredoc"
+firstReverse("I Love Code") // Should be "edoC evoL I"
 
 
 //: [Next](@next)
