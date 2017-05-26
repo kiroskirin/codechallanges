@@ -25,7 +25,8 @@ func simpleSymbols(_ str: String) -> String {
     
     if str.characters.count < 2 || !str.contains("+") || str.isEmpty { return "false" }
     
-    let correctPattern = try! NSRegularExpression(pattern: "\\+[a-z]\\+", options: .caseInsensitive)
+    let correctPattern = try! NSRegularExpression(pattern: "\\+[a-z]\\+[a-z]\\+|\\+[a-z]\\+", options: .caseInsensitive)
+    
     let falsePattern = try! NSRegularExpression(pattern: "\\+[a-z]|[a-z]\\+", options: .caseInsensitive)
     
     let leftString = correctPattern.stringByReplacingMatches(in: str, options: .withTransparentBounds, range: NSMakeRange(0, str.characters.count), withTemplate: "0")
@@ -39,4 +40,6 @@ func simpleSymbols(_ str: String) -> String {
 
 simpleSymbols("+d+=3=+s+") // Should be "true"
 simpleSymbols("f++d+") // Should be "false"
+simpleSymbols("2+a+a+") // Should be "true"
+simpleSymbols("+z+z+==+a+") // Should be "true"
 
