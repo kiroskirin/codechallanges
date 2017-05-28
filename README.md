@@ -12,9 +12,9 @@ Happy coding. :)
 
 [Letter Changes](./CodeChallenges.playground/Pages/Letter%20Changes.xcplaygroundpage/Contents.swift)
 
+[Letter Capitalize](./CodeChallenges.playground/Pages/Letter%20Capitalize.xcplaygroundpage/Contents.swift)
 
-
-
+[Simple Symbols](./CodeChallenges.playground/Pages/Simple%20Sympols.xcplaygroundpage/Contents.swift)
 
 
 
