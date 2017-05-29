@@ -14,6 +14,8 @@ Happy coding. :)
 
 [Letter Capitalize](./CodeChallenges.playground/Pages/Letter%20Capitalize.xcplaygroundpage/Contents.swift)
 
+[Longest Word](./CodeChallenges.playground/Pages/Longest%20Word.xcplaygroundpage/Contents.swift)
+
 [Simple Symbols](./CodeChallenges.playground/Pages/Simple%20Sympols.xcplaygroundpage/Contents.swift)
 
 [Check Nums](./CodeChallenges.playground/Pages/Check%20Nums.xcplaygroundpage/Contents.swift)
