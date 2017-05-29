@@ -16,7 +16,7 @@ Happy coding. :)
 
 [Simple Symbols](./CodeChallenges.playground/Pages/Simple%20Sympols.xcplaygroundpage/Contents.swift)
 
-
+[Check Nums](./CodeChallenges.playground/Pages/Check%20Nums.xcplaygroundpage/Contents.swift)
 
 
 
