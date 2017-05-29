@@ -9,5 +9,7 @@
         <page name='Letter Capitalize'/>
         <page name='Simple Symbols'/>
         <page name='Check Nums'/>
+        <page name='Time Convert'/>
+        <page name='Alphabet Soup'/>
     </pages>
 </playground>

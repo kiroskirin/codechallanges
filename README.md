@@ -20,6 +20,7 @@ Happy coding. :)
 
 [Time Convert](./CodeChallenges.playground/Pages/Time%20Convert.xcplaygroundpage/Contents.swift)
 
+[Alphabet Soup](./CodeChallenges.playground/Pages/Alphabet%20Soup.xcplaygroundpage/Contents.swift)
 
 
 
