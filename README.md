@@ -18,6 +18,7 @@ Happy coding. :)
 
 [Check Nums](./CodeChallenges.playground/Pages/Check%20Nums.xcplaygroundpage/Contents.swift)
 
+[Time Convert](./CodeChallenges.playground/Pages/Time%20Convert.xcplaygroundpage/Contents.swift)
 
 
 
